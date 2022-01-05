@@ -40,3 +40,14 @@ p{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.dream-bg{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.pro-level{
+    color: rgb(240, 11, 60);
+}
+.baby-devolper{
+    color: rgb(247, 19, 19);
+}
